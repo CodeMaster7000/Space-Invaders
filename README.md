@@ -1,2 +1,2 @@
 # Space-Invaders
-This is a Space Invaders Game. Hope you enjoy!
+This is a thrilling Space Invaders Game in JavaScript, CSS and HTML. I hope you enjoy playing it!
